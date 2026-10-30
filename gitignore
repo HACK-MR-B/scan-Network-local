@@ -1,0 +1,9 @@
+venv/
+.venv/
+__pycache__/
+*.pyc
+alerts.log
+trusted.json
+icons/
+.idea/
+.vscode/
